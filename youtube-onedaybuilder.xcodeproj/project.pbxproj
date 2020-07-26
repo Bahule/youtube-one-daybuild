@@ -16,6 +16,7 @@
 		3A5B7DD224CCCBD80009DF5F /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A5B7DD124CCCBD80009DF5F /* Constants.swift */; };
 		3A5B7DD424CCCFDE0009DF5F /* Video.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A5B7DD324CCCFDE0009DF5F /* Video.swift */; };
 		3A5B7DD624CCD0CE0009DF5F /* Model.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A5B7DD524CCD0CE0009DF5F /* Model.swift */; };
+		3A5B7DD824CCF05F0009DF5F /* Response.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A5B7DD724CCF05E0009DF5F /* Response.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +31,7 @@
 		3A5B7DD124CCCBD80009DF5F /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
 		3A5B7DD324CCCFDE0009DF5F /* Video.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Video.swift; sourceTree = "<group>"; };
 		3A5B7DD524CCD0CE0009DF5F /* Model.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Model.swift; sourceTree = "<group>"; };
+		3A5B7DD724CCF05E0009DF5F /* Response.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Response.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -72,6 +74,7 @@
 				3A5B7DD124CCCBD80009DF5F /* Constants.swift */,
 				3A5B7DD324CCCFDE0009DF5F /* Video.swift */,
 				3A5B7DD524CCD0CE0009DF5F /* Model.swift */,
+				3A5B7DD724CCF05E0009DF5F /* Response.swift */,
 			);
 			path = "youtube-onedaybuilder";
 			sourceTree = "<group>";
@@ -153,6 +156,7 @@
 				3A5B7DD624CCD0CE0009DF5F /* Model.swift in Sources */,
 				3A5B7DD224CCCBD80009DF5F /* Constants.swift in Sources */,
 				3A5B7DD424CCCFDE0009DF5F /* Video.swift in Sources */,
+				3A5B7DD824CCF05F0009DF5F /* Response.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
